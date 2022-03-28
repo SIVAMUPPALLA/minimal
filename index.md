@@ -39,11 +39,11 @@ A robot (6DOF) with a camera module can respond to objects of different colors u
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>SIVA</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>1987</dd>
 <dt>Birthplace</dt>
-<dd>Japan</dd>
+<dd>INDIA</dd>
 <dt>Color</dt>
 <dd>Green</dd>
 </dl>
